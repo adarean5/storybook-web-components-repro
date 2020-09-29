@@ -1,9 +1,138 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="09587f87-e3c1-4258-b09c-fee31ddb4aad" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Storybook.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Storybook.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stories/LitElement.stories.ts" beforeDir="false" afterPath="$PROJECT_DIR$/stories/LitElement.stories.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stories/LitElementComponent.ts" beforeDir="false" afterPath="$PROJECT_DIR$/stories/LitElementComponent.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+        <option value="tsconfig.json" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/stories/tsconfig.json" />
+        <option value="$PROJECT_DIR$/.storybook/preview.js" />
+        <option value="$PROJECT_DIR$/stories/LitElementComponent.ts" />
+        <option value="$PROJECT_DIR$/stories/LitElement.stories.ts" />
+        <option value="$PROJECT_DIR$/tsconfig.json" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1i818LPUshwERaijPmyPqFEifOf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\JetBrains Rider 2020.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="storybook" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="storybook" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.storybook" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="09587f87-e3c1-4258-b09c-fee31ddb4aad" name="Default Changelist" comment="" />
+      <created>1601274245511</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601274245511</updated>
+      <workItem from="1601274261258" duration="4194000" />
+      <workItem from="1601367347829" duration="1983000" />
+    </task>
+    <task id="LOCAL-00001" summary="Add repro files">
+      <created>1601275483580</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601275483580</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Add repro files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add repro files" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="585" y="174" key="CommitChangelistDialog2" timestamp="1601275482897">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="585" y="174" key="CommitChangelistDialog2/0.0.1920.1160/-1920.0.1920.1160/1920.0.1536.824@0.0.1920.1160" timestamp="1601275482897" />
+    <state x="838" y="477" width="490" height="205" key="Github.ShareDialog" timestamp="1601274359276">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="838" y="477" width="490" height="205" key="Github.ShareDialog/0.0.1920.1160/-1920.0.1920.1160/1920.0.1536.824@0.0.1920.1160" timestamp="1601274359276" />
+    <state x="802" y="285" key="Github.UntrackedFilesDialog" timestamp="1601274370518">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="802" y="285" key="Github.UntrackedFilesDialog/0.0.1920.1160/-1920.0.1920.1160/1920.0.1536.824@0.0.1920.1160" timestamp="1601274370518" />
+    <state width="876" height="357" key="GridCell.Tab.0.bottom" timestamp="1601369296734">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="876" height="357" key="GridCell.Tab.0.bottom/0.0.1920.1160/-1920.0.1920.1160/1920.0.1536.824@0.0.1920.1160" timestamp="1601369296734" />
+    <state width="876" height="357" key="GridCell.Tab.0.center" timestamp="1601369296734">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="876" height="357" key="GridCell.Tab.0.center/0.0.1920.1160/-1920.0.1920.1160/1920.0.1536.824@0.0.1920.1160" timestamp="1601369296734" />
+    <state width="876" height="357" key="GridCell.Tab.0.left" timestamp="1601369296733">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="876" height="357" key="GridCell.Tab.0.left/0.0.1920.1160/-1920.0.1920.1160/1920.0.1536.824@0.0.1920.1160" timestamp="1601369296733" />
+    <state width="876" height="357" key="GridCell.Tab.0.right" timestamp="1601369296734">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="876" height="357" key="GridCell.Tab.0.right/0.0.1920.1160/-1920.0.1920.1160/1920.0.1536.824@0.0.1920.1160" timestamp="1601369296734" />
+    <state x="552" y="312" key="Vcs.Push.Dialog.v2" timestamp="1601275613597">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="552" y="312" key="Vcs.Push.Dialog.v2/0.0.1920.1160/-1920.0.1920.1160/1920.0.1536.824@0.0.1920.1160" timestamp="1601275613597" />
+    <state x="777" y="493" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601275602321">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="777" y="493" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1160/-1920.0.1920.1160/1920.0.1536.824@0.0.1920.1160" timestamp="1601275602321" />
   </component>
 </project>

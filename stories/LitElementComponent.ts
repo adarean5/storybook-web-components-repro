@@ -13,6 +13,13 @@ export class LitElementComponent extends LitElement {
 
     @property({ type: Number }) counter = 0;
 
+    // connectedCallback() {
+    //     // @ts-ignore
+    //     this._saveInstanceProperties();
+    //     super.connectedCallback();
+    //     console.log("%cSJERNEJ: connected original", "color: blue", );
+    // }
+
     __increment(): void {
         this.counter += 1;
         const event = new CustomEvent('example-event', {
